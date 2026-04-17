@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: simple-site
   annotations:
-    redeploy-on-config-change: "2026-04-17T10:15"
+    redeploy-on-config-change: "2026-04-17T10:20"
 spec:
   replicas: 1
   selector:
