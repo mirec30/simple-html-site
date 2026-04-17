@@ -12,7 +12,7 @@ data:
       <title>Test2</title>
     </head>
     <body>
-      <h1>Ahoj 👋</h1>
+      <h1>Test1</h1>
       <p>Toto je moja jednoduchá HTML stránka bežiaca na Kubernetes cez Argo CD.</p>
     </body>
     </html>
