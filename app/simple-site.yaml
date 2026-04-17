@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/TVOJ_USER/simple-html-site.git
+    repoURL: https://github.com/mirec30/simple-html-site.git
     targetRevision: main
     path: k8s
   destination:
